@@ -1,2 +1,2 @@
 # CSE498R
-DeepFake
+Comparative Analysis of Deepfake Image Detection Method
